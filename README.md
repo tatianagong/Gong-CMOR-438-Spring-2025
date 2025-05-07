@@ -17,7 +17,7 @@ This repository houses various concepts and algorithms taught during the Spring 
 | Random Forest          | Ensemble of decision trees                         | Both                     |
 | Ensemble Methods       | Combines predictions from multiple models          | Both                     |
 
-📁 Folder: `Supervised_Algorithms/`  
+📁 Folder: [`Supervised_Algorithms/`](/Supervised%20Learning/)  
 Each algorithm is documented with Markdown cells, visual outputs, and performance evaluations.
 
 ### Unsupervised Learning
@@ -29,7 +29,7 @@ Each algorithm is documented with Markdown cells, visual outputs, and performanc
 | PCA                          | Dimensionality reduction using variance capture | Dimensionality Reduction |
 | Image Compression with PCA   | Applies PCA to compress image data               | Dimensionality Reduction |
 
-📁 Folder: `Unsupervised_Algorithms/`  
+📁 Folder: [`Unsupervised_Algorithms/`](/Unsupervised%20Learning/)  
 Notebooks explore exploratory data analysis, clustering visualization, and compression.
 
 ## Summary Table
